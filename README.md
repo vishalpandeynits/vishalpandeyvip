@@ -13,7 +13,7 @@ Corona Tracker Website <a href="https://trackcoronavirus.pythonanywhere.com">Cor
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Tools-sqlite-informational?style=flat-square&logo=sqlite&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-vue-informational?style=flat-square&logo=sqlite&logoColor=vue&color=blue)
+![](https://img.shields.io/badge/Tools-vue-informational?style=flat-square&logo=vue&logoColor=vue&color=blue)
 ![](https://img.shields.io/badge/Tools-django-informational?style=flat-square&logo=django&logoColor=white&color=blue)
 
 ## Stats
