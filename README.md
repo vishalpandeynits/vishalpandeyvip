@@ -3,6 +3,11 @@
 [![Email Badge!](https://img.shields.io/badge/-Mail-white?style=flat-square&logo=gmail)](mailto:vishalpandeynits@gmail.com)
 [![Github Badge!](https://img.shields.io/badge/-vishalpandeyvip-gold?style=flat-square&logo=github&logoColor=black&link=https://github.com/vishalpandeyvip/)](https://www.github.com/vishalpandeyvip/)
 
+- 🔭 I’m currently working on GURU - an awesome learning management system.
+- 🌱 I’m currently learning REACT
+- 👯 I’m looking to collaborate on projects related to Web Development using Django
+- 💬 Ask me about Django and Web Development
+- ⚡ Fun fact: I am a funny guy
 <pre>
 Personal Portfolio Website <a href="https://vishalpandeynits.pythonanywhere.com">Vishal's Portfolio website </a>
 Blog Website -- <a href="https://vishalblogs.pythonanywhere.com">Vishal's Blog </a>
