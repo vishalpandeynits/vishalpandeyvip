@@ -4,7 +4,7 @@
 [![Github Badge!](https://img.shields.io/badge/-vishalpandeyvip-gold?style=flat-square&logo=github&logoColor=black&link=https://github.com/vishalpandeyvip/)](https://www.github.com/vishalpandeyvip/)
 
 - 🔭 I’m currently working on GURU - an awesome learning management system.
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Data Structure and Algorithm
 - 👯 I’m looking to collaborate on projects related to Web Development using Django
 - 💬 Ask me about Django and Web Development
 - ⚡ Fun fact: I am a funny guy
