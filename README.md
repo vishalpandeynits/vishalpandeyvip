@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 👯 I’m looking to collaborate on projects related to Web Development using Django
 - 💬 Ask me about Django and Web Development
-- ⚡ Fun fact: I keep my repos private.
+- ⚡ Fun fact: You are beautiful.
 <pre>
 Personal Portfolio Website <a href="https://vishalpandeynits.pythonanywhere.com">Vishal's Portfolio website </a>
 Blog Website -- <a href="https://vishalblogs.pythonanywhere.com">Vishal's Blog </a>
