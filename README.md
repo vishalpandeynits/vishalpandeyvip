@@ -24,8 +24,3 @@ Corona Tracker Website <a href="https://trackcoronavirus.pythonanywhere.com">Cor
 ## Stats
 ![Pavel's github stats](https://github-readme-stats.vercel.app/api?username=vishalpandeyvip&count_private=true&how_icons=true&include_all_commits=true&hide=contribs&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpandeyvip&count_private=true&layout=compact&langs_count=6&include_all_commits=true&theme=default)](https://github.com/vishalpandeyvip/vishalpandeyvip)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vishalpandeyvip/count.svg" />
-</p>
