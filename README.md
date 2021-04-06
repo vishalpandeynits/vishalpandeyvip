@@ -8,11 +8,6 @@
 - 👯 I’m looking to collaborate on projects related to Web Development using Django
 - 💬 Ask me about Django and Web Development
 - ⚡ Fun fact: You are beautiful.
-<pre>
-Personal Portfolio Website <a href="https://vishalpandeynits.pythonanywhere.com">Vishal's Portfolio website </a>
-Blog Website -- <a href="https://vishalblogs.pythonanywhere.com">Vishal's Blog </a>
-Corona Tracker Website <a href="https://trackcoronavirus.pythonanywhere.com">Corona tracker </a>
-</pre>
 
 ![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=flat-square&logo=c%2b%2b&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=blue) 
