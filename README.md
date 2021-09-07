@@ -4,7 +4,7 @@
 [![Github Badge!](https://img.shields.io/badge/-vishalpandeyvip-gold?style=flat-square&logo=github&logoColor=black&link=https://github.com/vishalpandeyvip/)](https://www.github.com/vishalpandeyvip/)
 
 - 🔭 I’m currently working on my data structure and algorithm skills.
-- 🌱 I’m currently learning Django Rest framework.
+- 🌱 I’m currently learning and working with Django and Django Rest framework.
 - 👯 I’m looking to collaborate on projects related to Web Development.
 - 💬 Ask me about Python, Django and Web Development.
 - 🔭 2021 Goals: Contributing to open source projects.
