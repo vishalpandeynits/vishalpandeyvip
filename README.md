@@ -28,7 +28,6 @@ Although never is often better than right now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
-—Tim Peters
 </pre>
 ![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=flat-square&logo=c%2b%2b&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=blue) 
