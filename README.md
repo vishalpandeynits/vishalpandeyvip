@@ -1,13 +1,19 @@
 ### Hi everyone 👋
 
-[![Email Badge!](https://img.shields.io/badge/-Mail-white?style=flat-square&logo=gmail)](mailto:vishalpandeynits@gmail.com)
-[![Github Badge!](https://img.shields.io/badge/-vishalpandeyvip-gold?style=flat-square&logo=github&logoColor=black&link=https://github.com/vishalpandeyvip/)](https://www.github.com/vishalpandeyvip/)
-
 - 🔭 I’m currently working on my data structure and algorithm skills.
 - 🌱 I’m currently learning and working with Django and Django Rest framework.
 - 👯 I’m looking to collaborate on projects related to Web Development.
 - 💬 Ask me about Python, Django and Web Development.
 - 🔭 2021 Goals: Contributing to open source projects.
+-
+[![Email Badge!](https://img.shields.io/badge/-Mail-white?style=flat-square&logo=gmail)](mailto:vishalpandeynits@gmail.com)
+[![Github Badge!](https://img.shields.io/badge/-vishalpandeyvip-gold?style=flat-square&logo=github&logoColor=black&link=https://github.com/vishalpandeyvip/)](https://www.github.com/vishalpandeyvip/)
+![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=flat-square&logo=c%2b%2b&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/Tools-sqlite-informational?style=flat-square&logo=sqlite&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-vue-informational?style=flat-square&logo=vue&logoColor=vue&color=blue)
+![](https://img.shields.io/badge/Tools-django-informational?style=flat-square&logo=django&logoColor=white&color=blue)
 <pre>
 Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -29,12 +35,6 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 </pre>
-![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=flat-square&logo=c%2b%2b&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/Tools-sqlite-informational?style=flat-square&logo=sqlite&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-vue-informational?style=flat-square&logo=vue&logoColor=vue&color=blue)
-![](https://img.shields.io/badge/Tools-django-informational?style=flat-square&logo=django&logoColor=white&color=blue)
 
 ## Stats
 ![Pavel's github stats](https://github-readme-stats.vercel.app/api?username=vishalpandeyvip&count_private=true&how_icons=true&include_all_commits=true&hide=contribs&theme=default)
