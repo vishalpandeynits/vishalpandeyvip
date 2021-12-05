@@ -17,5 +17,5 @@
 ![](https://img.shields.io/badge/Tools-django-informational?style=flat-square&logo=django&logoColor=white&color=blue)
 
 ## Stats
-![Pavel's github stats](https://github-readme-stats.vercel.app/api?username=vishalpandeyvip&count_private=true&how_icons=true&include_all_commits=true&hide=contribs&theme=default)
+![Pavel's github stats](https://github-readme-stats.vercel.app/api?username=vishalpandeyvip&count_private=true&how_icons=true&include_all_commits=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpandeyvip&count_private=true&layout=compact&langs_count=6&include_all_commits=true&theme=default)](https://github.com/vishalpandeyvip/vishalpandeyvip)
